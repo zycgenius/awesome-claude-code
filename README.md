@@ -278,6 +278,7 @@ print(result)
 |------|------|------|
 | [Claude Code Status Bar](https://github.com/anthropics/claude-code#status-line) | 状态栏配置 | 配置 |
 | [cc-usage](https://github.com/anthropics/claude-code#costs) | 费用统计 | 工具 |
+| [ax](https://github.com/Necmttn/ax) | Claude Code 会话、工具调用、技能和成本的本地可搜索图谱 | 工具 |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | MCP 调试工具 | 调试 |
 
 ---
