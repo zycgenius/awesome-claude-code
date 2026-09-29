@@ -84,6 +84,7 @@ Claude Code 是 Anthropic 推出的 AI 编程 CLI 工具，本项目收集了最
 | [mcp-server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | Brave 搜索引擎 | TypeScript |
 | [mcp-server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | 网页内容抓取 | Python |
 | [mcp-server-firecrawl](https://github.com/mendableai/firecrawl-mcp-server) | 网页爬取与提取 | TypeScript |
+| [statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | TypeScript |
 
 ### 文件与系统
 
